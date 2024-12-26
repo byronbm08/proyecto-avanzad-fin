@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Función A
+=======
+Función B
+>>>>>>> main
