@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 Cambio en la rama feature-1
 =======
 On branch feature-2
@@ -10,6 +9,5 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 Cambio en la rama feature-2
 >>>>>>> feature-2
-=======
+
 Cambio en la rama feature-3
->>>>>>> feature-3
