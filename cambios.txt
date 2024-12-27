@@ -1,0 +1,9 @@
+On branch feature-2
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	cambios.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Cambio en la rama feature-2
+Cambio en la rama feature-3
+Cambio en la rama feature-4
